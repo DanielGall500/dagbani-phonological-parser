@@ -13,7 +13,7 @@ This distinction helps create different vowel sounds and affects how words are p
 ![Ghana](https://cdn.britannica.com/75/5075-050-78E51BD5/Ghana.jpg)
 
 #### What is included?
-* A dataset of 50 IPA transcriptions for verb roots in Dagbani, a Gur language spoken in Ghana and the northern region of Togo.
+* A dataset of 50 IPA transcriptions for verb roots.
 * Scripts for Pre-processing of IPA transcriptions.
 * Scripts for conversion to Consonant-Vowel structure.
 * Scripts for conversion from Consonant-Vowel structure to moraic structure.
