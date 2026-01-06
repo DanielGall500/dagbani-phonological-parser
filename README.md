@@ -1,6 +1,6 @@
 # Dagbani Phonological Parser
 ## Analyse the Moraic Structure of Dagbani
-[Dagbani](https://glottolog.org/resource/languoid/id/dagb1246) is a Gur language spoken in Ghana and Northern Togo with an estimate of about 1M native speakers.
+[Dagbani](https://glottolog.org/resource/languoid/id/dagb1246) is a Gur language spoken in Ghana and to a lesser extent in Togo with an estimate of about 1M native speakers.
 
 This repository contains tools and scripts developed in the Rust programming language for the computational analysis of Dagbani phonology, specifically focused on vowel Advanced Tongue Root (ATR) properties and moraic structure. These tools were designed to help researchers verify phonological theories in under-studied languages by analyzing larger datasets.
 
