@@ -1,4 +1,5 @@
-# Dagbani Phonological Toolkit
+# Dagbani Phonological Parser
+## Analyse the Moraic Structure of Dagbani
 This repository contains tools and scripts developed in the Rust programming language for the computational analysis of Dagbani phonology, specifically focused on vowel Advanced Tongue Root (ATR) properties and moraic structure. These tools were designed to help researchers verify phonological theories in under-studied languages by analyzing larger datasets.
 
 Advanced Tongue Root (ATR) is a feature of some languages that affects how vowels are pronounced. It refers to whether the root of the tongue moves forward (advanced) or stays back in the throat when making a vowel sound. 
