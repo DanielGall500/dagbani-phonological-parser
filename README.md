@@ -1,5 +1,7 @@
 # Dagbani Phonological Parser
 ## Analyse the Moraic Structure of Dagbani
+[Dagbani](https://glottolog.org/resource/languoid/id/dagb1246) is a Gur language spoken in Ghana and Northern Togo with an estimate of about 1M native speakers.
+
 This repository contains tools and scripts developed in the Rust programming language for the computational analysis of Dagbani phonology, specifically focused on vowel Advanced Tongue Root (ATR) properties and moraic structure. These tools were designed to help researchers verify phonological theories in under-studied languages by analyzing larger datasets.
 
 Advanced Tongue Root (ATR) is a feature of some languages that affects how vowels are pronounced. It refers to whether the root of the tongue moves forward (advanced) or stays back in the throat when making a vowel sound. 
@@ -7,6 +9,8 @@ Advanced Tongue Root (ATR) is a feature of some languages that affects how vowel
 - **[–ATR] vowels**: The tongue stays back, making the vowels sound "laxer" or more closed (like "a" or "ɛ").
 
 This distinction helps create different vowel sounds and affects how words are pronounced in certain languages.
+
+![Ghana](https://cdn.britannica.com/75/5075-050-78E51BD5/Ghana.jpg)
 
 #### What is included?
 * A dataset of 50 IPA transcriptions for verb roots in Dagbani, a Gur language spoken in Ghana and the northern region of Togo.
